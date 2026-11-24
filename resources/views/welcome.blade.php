@@ -18,6 +18,6 @@
         @endif
     </head>
     <body class="text-red-500">
-       <h1 class="font-semibold text-6xl">welcome</h1>
+       <h1 class="font-semibold text-6xl">welcome world</h1>
     </body>
 </html>
