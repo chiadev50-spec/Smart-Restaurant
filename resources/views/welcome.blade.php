@@ -8,6 +8,6 @@
         @vite(['resources/css/app.css', 'resources/js/app.js'])
     </head>
     <body class="text-red-500">
-       <h1>welcome</h1>
+       <h1 class="font-semibold text-6xl">welcome</h1>
     </body>
 </html>
